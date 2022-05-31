@@ -83,6 +83,7 @@
             this.pbSlika.Location = new System.Drawing.Point(318, 49);
             this.pbSlika.Name = "pbSlika";
             this.pbSlika.Size = new System.Drawing.Size(217, 286);
+            this.pbSlika.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbSlika.TabIndex = 4;
             this.pbSlika.TabStop = false;
             this.pbSlika.Click += new System.EventHandler(this.PbSlika_Click);
